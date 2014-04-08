@@ -1,4 +1,14 @@
 - text: Home
   url: ./
+- text: Nutzer
+  Anmelden:
+  url: login.html
+  Registrieren:
+  url: registration.html
+  Passwort vergessen:
+  url: password-reminder.html
+- text: Profile
+- text: Inhalte
+- text: Kreise
 - text: About
   url: ./about.html
