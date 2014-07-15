@@ -8,7 +8,10 @@
   Passwort vergessen:
   url: password-reminder.html
 - text: Profile
+  url: profiles.html
 - text: Inhalte
+  url: contents.html
 - text: Kreise
+  url: circles.html
 - text: About
   url: ./about.html
